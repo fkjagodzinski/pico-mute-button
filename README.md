@@ -2,6 +2,8 @@
 
 The simplest possible USB device project for Raspberry Pi Pico.
 
+Use the `BOOTSEL` button to toggle mute on any machine connected to Pico.
+
 ## Build instructions
 
 This project is based on the Raspberry Pi Pico SDK. No build configuration has to be provided (e.g. toolchain files, CMake cache variables); the default SDK settings are sufficient for an off the shelf Raspberry Pi Pico.
